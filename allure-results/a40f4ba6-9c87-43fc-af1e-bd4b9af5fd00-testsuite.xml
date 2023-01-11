@@ -1,0 +1,45 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1673458281380' stop='1673458282099'>
+    <name>The App component</name>
+    <title>The App component</title>
+    <test-cases>
+        <test-case start='1673458281380' status='failed' stop='1673458281893'>
+            <name>2 - Create users - POST</name>
+            <title>2 - Create users - POST</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>TypeError: Cannot read properties of undefined (reading 'feature')</message>
+                <stack-trace>TypeError: Cannot read properties of undefined (reading 'feature')
+                    at Object.feature (C:\Users\GS12\Jest_Websocket_SuperWsTest_Js\tests\http.test.js:21:6)
+                    at Object.asyncJestLifecycle (C:\Users\GS12\Jest_Websocket_SuperWsTest_Js\node_modules\jest-jasmine2\build\jasmineAsyncInstall.js:60:37)
+                    at C:\Users\GS12\Jest_Websocket_SuperWsTest_Js\node_modules\jest-jasmine2\build\queueRunner.js:35:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (C:\Users\GS12\Jest_Websocket_SuperWsTest_Js\node_modules\jest-jasmine2\build\queueRunner.js:22:19)
+                    at C:\Users\GS12\Jest_Websocket_SuperWsTest_Js\node_modules\jest-jasmine2\build\queueRunner.js:62:41
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1673458281893' status='failed' stop='1673458282099'>
+            <name>3 - Get users - get</name>
+            <title>3 - Get users - get</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>TypeError: Cannot read properties of undefined (reading 'feature')</message>
+                <stack-trace>TypeError: Cannot read properties of undefined (reading 'feature')
+                    at Object.feature (C:\Users\GS12\Jest_Websocket_SuperWsTest_Js\tests\http.test.js:21:6)
+                    at Object.asyncJestLifecycle (C:\Users\GS12\Jest_Websocket_SuperWsTest_Js\node_modules\jest-jasmine2\build\jasmineAsyncInstall.js:60:37)
+                    at C:\Users\GS12\Jest_Websocket_SuperWsTest_Js\node_modules\jest-jasmine2\build\queueRunner.js:35:12
+                    at new Promise (&lt;anonymous>)
+                    at mapper (C:\Users\GS12\Jest_Websocket_SuperWsTest_Js\node_modules\jest-jasmine2\build\queueRunner.js:22:19)
+                    at C:\Users\GS12\Jest_Websocket_SuperWsTest_Js\node_modules\jest-jasmine2\build\queueRunner.js:62:41
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

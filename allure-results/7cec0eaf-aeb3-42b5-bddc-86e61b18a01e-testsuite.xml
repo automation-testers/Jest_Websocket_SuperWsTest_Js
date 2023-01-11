@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1673457144854' stop='1673457149973'>
+    <name>The App component</name>
+    <title>The App component</title>
+    <test-cases>
+        <test-case start='1673457144854' status='passed' stop='1673457146767'>
+            <name>1 - Create users - POST</name>
+            <title>1 - Create users - POST</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1673457146767' status='passed' stop='1673457146994'>
+            <name>2 - Create users - POST</name>
+            <title>2 - Create users - POST</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1673457146994' status='passed' stop='1673457148883'>
+            <name>3 - Create users - POST</name>
+            <title>3 - Create users - POST</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1673457148883' status='passed' stop='1673457149314'>
+            <name>4 - Create users - POST</name>
+            <title>4 - Create users - POST</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1673457149314' status='passed' stop='1673457149541'>
+            <name>5 - Create users - POST</name>
+            <title>5 - Create users - POST</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1673457149541' status='passed' stop='1673457149973'>
+            <name>6 - Create users - POST</name>
+            <title>6 - Create users - POST</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

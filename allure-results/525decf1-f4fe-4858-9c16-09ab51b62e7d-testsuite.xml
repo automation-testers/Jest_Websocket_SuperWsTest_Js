@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1673457629441' stop='1673457631989'>
+    <name>The App component</name>
+    <title>The App component</title>
+    <test-cases>
+        <test-case start='1673457629441' status='passed' stop='1673457629991'>
+            <name>2 - Create users - POST</name>
+            <title>2 - Create users - POST</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1673457629991' status='passed' stop='1673457631989'>
+            <name>3 - Get users - get</name>
+            <title>3 - Get users - get</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

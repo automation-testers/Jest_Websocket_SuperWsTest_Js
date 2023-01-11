@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1673459986788' stop='1673459987658'>
+    <name>Superwstest lib</name>
+    <title>Superwstest lib</title>
+    <test-cases>
+        <test-case start='1673459986788' status='passed' stop='1673459987658'>
+            <name>communicates via websockets</name>
+            <title>communicates via websockets</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
