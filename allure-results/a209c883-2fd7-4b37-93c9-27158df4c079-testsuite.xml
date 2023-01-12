@@ -1,0 +1,33 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1673545861500' stop='1673545862404'>
+    <name>The App component</name>
+    <title>The App component</title>
+    <test-cases>
+        <test-case start='1673545861500' status='passed' stop='1673545861986'>
+            <name>1 - Create users - POST</name>
+            <title>1 - Create users - POST</title>
+            <labels>
+                <label name='epic' value='Component Tests.'/>
+                <label name='feature' value='Shopping Cart Feature.'/>
+                <label name='story' value='Cart Crud Story.'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>The App component 1 - Create users - POST</description>
+        </test-case>
+        <test-case start='1673545861986' status='passed' stop='1673545862404'>
+            <name>2 - Get users - get</name>
+            <title>2 - Get users - get</title>
+            <labels>
+                <label name='epic' value='Component Tests.'/>
+                <label name='feature' value='Shopping Cart Feature.'/>
+                <label name='story' value='Cart Crud Story.'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <description type='text'>The App component 2 - Get users - get</description>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
